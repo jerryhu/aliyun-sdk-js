@@ -215,65 +215,14 @@
 						"required": true,
 						"type": "string"
 					},
-					"PushTime": {
-						"type": "string"
-					},
-					"ExpireTime": {
-						"type": "string"
-					},
-					"StoreOffline": {
-						"type": "boolean"
-					},
-					"BatchNumber": {
-						"type": "string"
-					},
-					"AndroidNotifyType": {
-						"type": "string"
-					},
-					"AndroidOpenType": {
-						"type": "string"
-					},
-					"AndroidActivity": {
-						"type": "string"
-					},
-					"AndroidOpenUrl": {
-						"type": "string"
-					},
-					"AndroidXiaoMiActivity": {
-						"type": "string"
-					},
-					"AndroidXiaoMiNotifyTitle": {
-						"type": "string"
-					},
-					"AndroidXiaoMiNotifyBody": {
-						"type": "string"
-					},
-					"AndroidMusic": {
-						"type": "string"
-					},
-					"AndroidNotificationBarType": {
-						"type": "integer"
-					},
-					"AndroidNotificationBarPriority": {
-						"type": "integer"
-					},
-					"AndroidExtParameters": {
-						"type": "string"
-					},
-					"iOSApnsEnv": {
-						"type": "string"
-					},
-					"iOSRemind": {
-						"type": "boolean"
-					},
-					"iOSRemindBody": {
-						"type": "string"
-					},
 					"iOSMusic": {
 						"type": "string"
 					},
 					"iOSBadge": {
 						"type": "integer"
+					},
+					"iOSBadgeAutoIncrement": {
+						"type": "boolean"
 					},
 					"iOSSilentNotification": {
 						"type": "boolean"
@@ -289,6 +238,63 @@
 					},
 					"iOSExtParameters": {
 						"type": "string"
+					},
+					"iOSApnsEnv": {
+						"type": "string"
+					},
+					"iOSRemind": {
+						"type": "boolean"
+					},
+					"iOSRemindBody": {
+						"type": "string"
+					},
+					"AndroidMusic": {
+						"type": "string"
+					},
+					"AndroidOpenType": {
+						"type": "string"
+					},
+					"AndroidNotifyType": {
+						"type": "string"
+					},
+					"AndroidActivity": {
+						"type": "string"
+					},
+					"AndroidOpenUrl": {
+						"type": "string"
+					},
+					"AndroidNotificationBarType": {
+						"type": "integer"
+					},
+					"AndroidNotificationBarPriority": {
+						"type": "integer"
+					},
+					"AndroidNotificationChannel": {
+						"type": "string"
+					},
+					"AndroidExtParameters": {
+						"type": "string"
+					},
+					"AndroidRemind": {
+						"type": "boolean"
+					},
+					"AndroidPopupActivity": {
+						"type": "string"
+					},
+					"AndroidPopupTitle": {
+						"type": "string"
+					},
+					"AndroidPopupBody": {
+						"type": "string"
+					},
+					"PushTime": {
+						"type": "string"
+					},
+					"ExpireTime": {
+						"type": "string"
+					},
+					"StoreOffline": {
+						"type": "boolean"
 					}
 				}
 			}

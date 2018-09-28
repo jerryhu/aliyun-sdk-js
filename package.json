@@ -1,10 +1,10 @@
 {
-  "name": "aliyun-sdk",
-  "description": "Aliyun SDK for JavaScript",
+  "name": "aliyun-sdk-zy-push",
+  "description": "Aliyun SDK for JavaScript | Updated API JSON for PUSH",
   "version": "1.11.10",
   "author": {
-    "name": "chylvina",
-    "email": "chylvina@gmail.com"
+    "name": "Jerry Hu",
+    "email": "jerryhunn@gmail.com"
   },
   "homepage": "https://github.com/aliyun-UED/aliyun-sdk-js.git",
   "contributors": [],
